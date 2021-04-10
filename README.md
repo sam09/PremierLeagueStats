@@ -1,2 +1,2 @@
 # PremierLeagueStats
-Random Code to win an football arguments
+Random Code to win an football argument
